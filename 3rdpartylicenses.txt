@@ -1,3 +1,6 @@
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -58,6 +61,12 @@ THE SOFTWARE.
 MIT
 
 @angular/router
+MIT
+
+ng-gallery
+MIT
+
+primeng
 MIT
 
 rxjs
